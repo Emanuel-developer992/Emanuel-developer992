@@ -7,7 +7,7 @@
 
 ![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanuel-developer992&show_icons=true&theme=radical)
 
-## Tecnologias 🤖
+## Conhecimentos em Programação e Infraestrutura 🤖
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
