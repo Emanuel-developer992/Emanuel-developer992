@@ -7,8 +7,9 @@
       <br>
       Olá eu sou <b>Emanuel Ferreira 👋</b>
   </samp>
-</div>
 
+
+</br>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelplayer992@gmail.com)
@@ -55,5 +56,7 @@
 
 
 Desenvolvedor focado em soluções web e mobile, com experiência em React, React Native, Node.js, APIs REST e infraestrutura em nuvem. Comprometido com boas práticas, escalabilidade e inovação tecnológica.
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
