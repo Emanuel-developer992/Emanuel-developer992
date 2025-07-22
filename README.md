@@ -45,7 +45,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-developer992)
 
-## Banco de dados 🗄️/ Prototipagem e Designer 🎨 / Apredizagem 🎓 / Plataforma de pagamento 🏦
+<!-- ## Banco de dados 🗄️/ Prototipagem e Designer 🎨 / Apredizagem 🎓 / Plataforma de pagamento 🏦
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -58,6 +58,6 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 
 
