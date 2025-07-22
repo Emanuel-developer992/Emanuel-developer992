@@ -60,4 +60,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 
-
+Desenvolvedor focado em soluções web e mobile, com experiência em React, React Native, Node.js, APIs REST e infraestrutura em nuvem. Comprometido com boas práticas, escalabilidade e inovação tecnológica.
