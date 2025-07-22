@@ -1,15 +1,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 
+
 <div align="center">
-<b>`エマヌエル`</b>
+<code>エマヌエル</code>
  <samp>
       <br>
       Olá eu sou <b>Emanuel Ferreira 👋</b>
   </samp>
 
-
-</br>
+<br>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelplayer992@gmail.com)
